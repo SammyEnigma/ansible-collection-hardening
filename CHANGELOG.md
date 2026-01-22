@@ -1,8 +1,8 @@
 # Changelog
 
-## [Unreleased](https://github.com/dev-sec/ansible-collection-hardening/tree/HEAD)
+## [10.5.0](https://github.com/dev-sec/ansible-collection-hardening/tree/10.5.0) (2026-01-22)
 
-[Full Changelog](https://github.com/dev-sec/ansible-collection-hardening/compare/10.4.0...HEAD)
+[Full Changelog](https://github.com/dev-sec/ansible-collection-hardening/compare/10.4.0...10.5.0)
 
 **Implemented enhancements:**
 
@@ -16,6 +16,7 @@
 
 **Merged pull requests:**
 
+- chore\(deps\): update dependency jmespath to v1.1.0 [\#930](https://github.com/dev-sec/ansible-collection-hardening/pull/930) ([renovate[bot]](https://github.com/apps/renovate))
 - chore\(deps\): update actions/setup-python digest to a309ff8 [\#929](https://github.com/dev-sec/ansible-collection-hardening/pull/929) [[mysql_hardening](https://github.com/dev-sec/ansible-collection-hardening/labels/mysql_hardening)] [[os_hardening](https://github.com/dev-sec/ansible-collection-hardening/labels/os_hardening)] [[ssh_hardening](https://github.com/dev-sec/ansible-collection-hardening/labels/ssh_hardening)] [[nginx_hardening](https://github.com/dev-sec/ansible-collection-hardening/labels/nginx_hardening)] ([renovate[bot]](https://github.com/apps/renovate))
 - chore\(deps\): update ansible/ansible-lint action to v26 [\#928](https://github.com/dev-sec/ansible-collection-hardening/pull/928) ([renovate[bot]](https://github.com/apps/renovate))
 - chore\(deps\): update artis3n/ansible\_galaxy\_collection digest to 415a92b - autoclosed [\#927](https://github.com/dev-sec/ansible-collection-hardening/pull/927) ([renovate[bot]](https://github.com/apps/renovate))
